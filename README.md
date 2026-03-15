@@ -5,9 +5,9 @@
 │                                                                      │
 │                      ▼ 8 seconds later                               │
 │                                                                      │
-│  ✅ Profile created                                                   │
-│  ✅ 5 matching jobs found                                             │
-│  ✅ 2 jobs flagged as underpaying you                                 │
-│  ✅ Resume generated & ready to download                              │
+│  ✅ Profile created                                                  │
+│  ✅ 5 matching jobs found                                            │
+│  ✅ 2 jobs flagged as underpaying you                                │
+│  ✅ Resume generated & ready to download                             │
 └──────────────────────────────────────────────────────────────────────┘
 ```
