@@ -1,13 +1,5 @@
-```
-┌──────────────────────────────────────────────────────────────┐
-│ "I'm an electrician. 8 years. Red Seal certified.           │
-│  Residential work mostly. Based in Mississauga."            │
-│                                                             │
-│                       ▼ 8 seconds later                     │
-│                                                             │
-│  ✅ Profile created                                         │
-│  ✅ 5 matching jobs found                                   │
-│  ✅ 2 jobs flagged as underpaying you                       │
-│  ✅ Resume generated & ready to download                    │
-└──────────────────────────────────────────────────────────────┘
-```
+![Built at GenAI Genesis](https://img.shields.io/badge/Built%20at-GenAI%20Genesis%202026-teal?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FastAPI-blue?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react)
+![Moorcheh](https://img.shields.io/badge/AI-Moorcheh%20RAG-purple?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/Voice-ElevenLabs%20STT-orange?style=for-the-badge)
