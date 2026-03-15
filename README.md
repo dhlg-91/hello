@@ -20,3 +20,18 @@
 <img src="https://img.shields.io/badge/AI-Moorcheh%20RAG-purple?style=flat-badge" height="32">
 <img src="https://img.shields.io/badge/Voice-ElevenLabs%20STT-orange?style=flat-badge">
 </p>
+
+
+
+## Demo
+```
+"I'm an electrician. 8 years. Red Seal certified.
+ Residential work mostly. Based in Mississauga."
+
+  ▼ 8 seconds later
+
+✅ Profile created
+✅ 5 matching jobs found
+✅ 2 jobs flagged as underpaying you
+✅ Resume generated & ready to download
+```
